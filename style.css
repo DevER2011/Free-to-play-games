@@ -1,0 +1,11 @@
+.line{
+height:6px;
+width:100%;
+background-color: black;
+}
+#gemes{
+background-color: rgb(255, 242, 0);
+}
+body{
+text-align: center;
+}
